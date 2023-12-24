@@ -1,4 +1,4 @@
-# Team05-Lord-of-the-Lakes
+# Lord-of-the-Lakes
 ## M4 Outline
 > For M4, we worked towards the end of our game. More dialogue was added and drawings were inserted for a few story moments.
 > The fish catch rates, pricing, stats were adjusted to feel like progression is smooth. Battling stats were also balanced so that enemies were not too strong if the player was properly upgraded.
