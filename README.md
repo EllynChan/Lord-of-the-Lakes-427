@@ -1,4 +1,7 @@
 # Lord-of-the-Lakes
+## About
+Lord of the Lakes is a 2d fishing game where collecting fish is the main game and you also get a rpg minigame with a turn-based battle mechanic. Capture the legendary fish and become the number one fisherman!
+
 ## M4 Outline
 > For M4, we worked towards the end of our game. More dialogue was added and drawings were inserted for a few story moments.
 > The fish catch rates, pricing, stats were adjusted to feel like progression is smooth. Battling stats were also balanced so that enemies were not too strong if the player was properly upgraded.
