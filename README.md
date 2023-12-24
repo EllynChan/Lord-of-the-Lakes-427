@@ -226,9 +226,11 @@ SFX:
 - [Exclamation alert](https://freesound.org/people/aj_heels/sounds/634079/)
 - [Cash register "Cha-ching!"](https://freesound.org/people/Zott820/sounds/209578/)
 - [SFX for denied UI and selling](https://leohpaz.itch.io/rpg-essentials-sfx-free)
+- [Sound effect Starter pack (over 500 sound)](https://simon13666.itch.io/sound-starter-pack)
 
 BGM:
 - http://www.abstractionmusic.com/
 
 FONT:
 - https://ggbot.itch.io/bad-comic-font
+- https://www.ffonts.net/Carre.font.download
