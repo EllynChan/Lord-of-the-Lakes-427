@@ -1,0 +1,740 @@
+{
+  "shopkeeper": {
+    "welcome": "Welcome to the shop, meow~!",
+    "buy": "Thanks for the purrrrchase!",
+    "sell": "Nice cat-ch!",
+    "broke": "You don't have e-nya-ough coins for that!"
+  },
+  "introduction": {
+    "conversation": {
+      "line_0": {
+        "name": "???",
+        "text": "This is it...",
+        "frame_mc": 0
+      },
+      "line_1": {
+        "name": "???",
+        "text": "The lake rumoured to be where the Legendary Fish inhabits...",
+        "frame_mc": 0
+      },
+      "line_2": {
+        "name": "Jonah",
+        "text": "(My name is Jonah. I come from a long line of fishers who spent their days catching and selling fish.)",
+        "frame_mc": 4
+      },
+      "line_3": {
+        "name": "Jonah",
+        "text": "(Naturally, I followed this path as well. Since I was young, I was able to catch fish in my hometown easily, no matter what I faced.)",
+        "frame_mc": 4
+      },
+      "line_4": {
+        "name": "Jonah",
+        "text": "(I soon became bored. I wanted to experience the thrill of catching fish like I did in the beginning.)",
+        "frame_mc": 4
+      },
+      "line_5": {
+        "name": "Jonah",
+        "text": "(Seeking something more, I left my home to travel to farther waters. While I did experience some excitement and challenge, I still felt something was missing...)",
+        "frame_mc": 4
+      },
+      "line_6": {
+        "name": "Jonah",
+        "text": "(That's when I heard of a rumour of a \"Legendary Fish\" being whispered around. It caught my interest and so I decided my next goal was to find more about this fish. Maybe if I could catch such a legend, I could prove to myself and the world that I'm the best fisher of all. It would be the ultimate challenge!)",
+        "frame_mc": 0,
+        "background": 77
+      },
+      "line_7": {
+        "name": "Jonah",
+        "text": "(No one knows what it truly looks like. But there've been claims over the years of a large fish, hidden away in secluded waters.)",
+        "frame_mc": 0,
+        "background": 77
+      },
+      "line_8": {
+        "name": "Jonah",
+        "text": "(They say it was a like a massive shadow lurking beneath the depths, yet it would disappear the moment people could merely see a glimpse. Or anyone seeking it out would never return to be able to say more...)",
+        "frame_mc": 0,
+        "background": 77
+      },
+      "line_9": {
+        "name": "Jonah",
+        "text": "(And that's why I'm here now...)",
+        "frame_mc": 4
+      },
+      "line_10": {
+        "name": "Jonah",
+        "text": "After all this time...I can finally see for myself if these legends are true...and achieve the title of strongest fisher of all!",
+        "frame_mc": 2
+      },
+      "line_11": {
+        "name": "Jonah",
+        "text": "I'll have to be careful. No one comes here because of the other rumours that more dangerous creatures reside in this lake too. Let's test the waters first and catch what I can for now.",
+        "frame_mc": 0
+      }
+    },
+    "num_lines": 12
+  },
+  "shiny_spots": {
+    "conversation": {
+      "line_0": {
+        "name": "Jonah",
+        "text": "Hmm...there's a strange glowing light coming from underwater here.",
+        "frame_mc": 0
+      },
+      "line_1": {
+        "name": "Jonah",
+        "text": "It doesn't seem to be dangerous. Rather, I feel like it's giving me some kind of power.",
+        "frame_mc": 0
+      },
+      "line_2": {
+        "name": "Jonah",
+        "text": "I think if I fish around these spots, something good might happen.",
+        "frame_mc": 2
+      }
+    },
+    "popup": {
+      "text": "Glowing spots will sometimes appear around the lake. While fishing in these spots, your chance to catch rare fish may increase!",
+      "image": 79
+    },
+    "num_lines": 3
+  },
+  "ally_1_recruit": {
+    "conversation": {
+      "line_0": {
+        "name": "Jonah",
+        "text": "What the...?!",
+        "frame_mc": 1,
+        "frame_ally": 0
+      },
+      "line_1": {
+        "name": "Strange Girl",
+        "text": "Oh my...what an ungraceful entrance...",
+        "frame_mc": 1,
+        "frame_ally": 1
+      },
+      "line_2": {
+        "name": "Jonah",
+        "text": "Who are you? Why were you caught on my fishing line?",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_3": {
+        "name": "Nix",
+        "text": "I'm just someone who enjoys high quality seafood, let's say. You can call me Nix. I happened to see something tasty and I couldn't help but reach for it.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_4": {
+        "name": "Nix",
+        "text": "It turns out I was chasing after prey already claimed. My apologies.",
+        "frame_mc": 0,
+        "frame_ally": 1
+      },
+      "line_5": {
+        "name": "Nix",
+        "text": "Still, it seems you're quite skilled to be able to lure and catch fish that can catch even my eye. Perhaps we could help each other out?",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_6": {
+        "name": "Jonah",
+        "text": "...I don't need any help. I'll be able to catch the legendary fish on my own.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_7": {
+        "name": "Nix",
+        "text": "Fuhuhu~ No need to be shy. The legendary fish, hm? Truly, a delic- *ahem*, a delightful goal. My, the more I learn about you, the more I want to join!",
+        "frame_mc": 0,
+        "frame_ally": 1
+      },
+      "line_8": {
+        "name": "Nix",
+        "text": "You may be strong now, but there's more to see in the waters than this mere lake. Rest assured, I can guide you through dangers you wouldn't be able to face alone. And it would be much faster to reach this legendary fish if we combined our strength against any obstables, no?",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_9": {
+        "name": "Jonah",
+        "text": "(She does have a point...especially facing certain types of fish I've encountered in this lake).",
+        "frame_mc": 4,
+        "frame_ally": 0
+      },
+      "line_10": {
+        "name": "Jonah",
+        "text": "You said there's more to see than this lake. Do you know more about the legend then?",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_11": {
+        "name": "Nix",
+        "text": "You have a sharp ear. I can tell you that the legendary fish doesn't reside in this lake, but I know a way to its true habitat. When the time is right, I'll lead you to it.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_12": {
+        "name": "Jonah",
+        "text": "...Fine then. I don't really have any other leads. But I expect you to pull your weight.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_13": {
+        "name": "Nix",
+        "text": "Of course. Just repay me with some of your catches now and then. I can already taste the sweet flesh of seafood...",
+        "frame_mc": 0,
+        "frame_ally": 1
+      },
+      "line_14": {
+        "name": "Jonah",
+        "text": "...Hmm.",
+        "frame_mc": 3,
+        "frame_ally": 1
+      }
+    },
+    "popup": {
+      "text": "Nix joined your party!",
+      "image": 73
+    },
+    "num_lines": 15,
+    "texture_ally": 51
+  },
+  "ally_2_recruit": {
+    "conversation": {
+      "line_0": {
+        "name": "Jonah",
+        "text": "Again?!",
+        "frame_mc": 1,
+        "frame_ally": 0
+      },
+      "line_1": {
+        "name": "Strange Boy",
+        "text": "Woahh!! What ho! It appears another inhabitant yet finds this lake!",
+        "frame_mc": 1,
+        "frame_ally": 0
+      },
+      "line_2": {
+        "name": "Lance",
+        "text": "Fear not, for I, Lance, shall protect you from these dangerous waters!",
+        "frame_mc": 1,
+        "frame_ally": 1
+      },
+      "line_3": {
+        "name": "Jonah",
+        "text": "...",
+        "frame_mc": 3,
+        "frame_ally": 1
+      },
+      "line_4": {
+        "name": "Jonah",
+        "text": "I wouldn't normally consider it, but this place does give me the creeps...",
+        "frame_mc": 4,
+        "frame_ally": 0
+      },
+      "line_5": {
+        "name": "Jonah",
+        "text": "What's in it for you though? Why are you even here?",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_6": {
+        "name": "Lance",
+        "text": "I'm afraid that I am quite lost! I, too, wandered about only to find myself in this yet unescapable place despite my best efforts to leave.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_7": {
+        "name": "Jonah",
+        "text": "Huh?!",
+        "frame_mc": 1,
+        "frame_ally": 0
+      },
+      "line_8": {
+        "name": "Lance",
+        "text": "Do not worry! Regardless of my own hardships, it wouldn't be right to leave a hapless person in danger.",
+        "frame_mc": 1,
+        "frame_ally": 1
+      },
+      "line_9": {
+        "name": "Jonah",
+        "text": "Ugh...I didn't come here by accident like you did, apparently.",
+        "frame_mc": 3,
+        "frame_ally": 0
+      },
+      "line_10": {
+        "name": "Jonah",
+        "text": "But I'm starting to get the feeling I'm going to need all the help I can get here. Have you heard of the legendary fish?",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_11": {
+        "name": "Jonah",
+        "text": "That's my goal here. I'm going to catch it. If you help me, then I'll help you find a way out of here. I mean, I don't wanna stay here forever either...",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_12": {
+        "name": "Lance",
+        "text": "The legendary fish! To attempt to catch such a myth...you have a burning soul of passion, just like me! I would be honoured to join you in your quest!",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_13": {
+        "name": "Lance",
+        "text": "And not only that, you would reach your hand out to help me too...truly I have found a kindred spirit...",
+        "frame_mc": 3,
+        "frame_ally": 0
+      },
+      "line_14": {
+        "name": "Jonah",
+        "text": "Uh, yeah...let's go with that. Welcome to the team, I guess...",
+        "frame_mc": 3,
+        "frame_ally": 0
+      },
+      "line_15": {
+        "name": "Lance",
+        "text": "I'll give it my all to aid you!",
+        "frame_mc": 3,
+        "frame_ally": 1
+      }
+    },
+    "popup": {
+      "text": "Lance joined your party!",
+      "image": 81
+    },
+    "num_lines": 16,
+    "texture_ally": 80
+  },
+  "ally_1_talk_1": {
+    "conversation": {
+      "line_0": {
+        "name": "Nix",
+        "text": "Hello there. Are the fish biting today? I hope we'll be able to catch a lot.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_1": {
+        "name": "Nix",
+        "text": "After all, if we catch a lot, you can sell them to get stronger, right? The stronger you'll get, the more fish you can catch.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_2": {
+        "name": "Nix",
+        "text": "And the stronger the fish, the more delicious they will be...",
+        "frame_mc": 1,
+        "frame_ally": 0
+      },
+      "line_3": {
+        "name": "Nix",
+        "text": "Fuhuhu...I can't wait to try some.",
+        "frame_mc": 1,
+        "frame_ally": 1
+      },
+      "line_4": {
+        "name": "Jonah",
+        "text": "...You sure like to eat, huh.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_5": {
+        "name": "Nix",
+        "text": "Of course. There's nothing like the pursuit of fine cuisine.",
+        "frame_mc": 0,
+        "frame_ally": 1
+      },
+      "line_6": {
+        "name": "Jonah",
+        "text": "(Is she really going to be a reliable fishing partner..?)",
+        "frame_mc": 0,
+        "frame_ally": 1
+      }
+    },
+    "num_lines": 7,
+    "texture_ally": 51
+  },
+  "ally_1_talk_2": {
+    "conversation": {
+      "line_0": {
+        "name": "Jonah",
+        "text": "I've been meaning to ask you. What exactly are you doing when I'm reeling in one those shadows in the lake? It does make fishing them up easier, but something feels off whenever you do something.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_1": {
+        "name": "Nix",
+        "text": "Hm? Why it's my dark magic, of course.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_2": {
+        "name": "Jonah",
+        "text": "...Magic? DARK?",
+        "frame_mc": 1,
+        "frame_ally": 0
+      },
+      "line_3": {
+        "name": "Nix",
+        "text": "Huhu, no need to look so shocked. Haven't you seen many unexplainable things in this lake already?",
+        "frame_mc": 1,
+        "frame_ally": 1
+      },
+      "line_4": {
+        "name": "Nix",
+        "text": "My magic has been taught and inherited in my family for generations. Truth be told, I went out of my way to learn more than I bargained for, even in terms of dark magic.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_5": {
+        "name": "Jonah",
+        "text": "What happened?",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_6": {
+        "name": "Nix",
+        "text": "Would you really like to know?",
+        "frame_mc": 0,
+        "frame_ally": 1
+      },
+      "line_7": {
+        "name": "Jonah",
+        "text": "...Maybe not.",
+        "frame_mc": 3,
+        "frame_ally": 0
+      },
+      "line_8": {
+        "name": "Jonah",
+        "text": "But why did you push yourself like that?",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_9": {
+        "name": "Nix",
+        "text": "Surely you would understand, considering your own quest to catch the legendary fish.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_10": {
+        "name": "Jonah",
+        "text": "I see. So you wanted to be stronger, too.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_11": {
+        "name": "Nix",
+        "text": "Ahh, but it was all for naught. I did get strong, but alas...",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_12": {
+        "name": "Jonah",
+        "text": "...",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_13": {
+        "name": "Nix",
+        "text": "Even though I wished for the might to catch all the seafood in the world, it turns out such forbidden art renders the flesh tasteless and dull when it causes my prey's last breath.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_14": {
+        "name": "Nix",
+        "text": "It really is such a shame...",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_15": {
+        "name": "Jonah",
+        "text": ".................",
+        "frame_mc": 3,
+        "frame_ally": 0
+      },
+      "line_16": {
+        "name": "Nix",
+        "text": "So I'm truly grateful I met you. Fate has brought us a wonderful partnership where you can catch all the fish you please, and I can eat my fill~.",
+        "frame_mc": 3,
+        "frame_ally": 1
+      },
+      "line_17": {
+        "name": "Jonah",
+        "text": "I suppose so...",
+        "frame_mc": 3,
+        "frame_ally": 1
+      }
+    },
+    "num_lines": 18,
+    "texture_ally": 51
+  },
+  "ally_2_talk_1": {
+    "conversation": {
+      "line_0": {
+        "name": "Lance",
+        "text": "Lo, my friend! Another great day out on the water, isn't it?",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_1": {
+        "name": "Lance",
+        "text": "If any of these fish creatures are bothering you, just let me know! I'll knock 'em back and protect you, no problem!",
+        "frame_mc": 0,
+        "frame_ally": 1
+      },
+      "line_2": {
+        "name": "Jonah",
+        "text": "Ugh...",
+        "frame_mc": 3,
+        "frame_ally": 1
+      },
+      "line_3": {
+        "name": "Jonah",
+        "text": "I appreciate the help, but you're a little too loud...",
+        "frame_mc": 3,
+        "frame_ally": 0
+      },
+      "line_4": {
+        "name": "Jonah",
+        "text": "Anyways, you said you ended up here because you got lost, right? How exactly did that happen...?",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_5": {
+        "name": "Lance",
+        "text": "To be quite honest, I'm not exactly sure!",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_6": {
+        "name": "Jonah",
+        "text": "Of course...",
+        "frame_mc": 3,
+        "frame_ally": 0
+      },
+      "line_7": {
+        "name": "Lance",
+        "text": "I'm afraid this has always been a problem for me, much to the chagrin of my friends and family. I can't help the call of adventure!",
+        "frame_mc": 3,
+        "frame_ally": 0
+      },
+      "line_8": {
+        "name": "Lance",
+        "text": "That siren song of excitement tends to make me lose sight of everything else, unfortunately...",
+        "frame_mc": 3,
+        "frame_ally": 0
+      },
+      "line_9": {
+        "name": "Jonah",
+        "text": "I suppose I can understand that, sort of. It's hard to pay attention to other things when you want to focus on what you really want.",
+        "frame_mc": 2,
+        "frame_ally": 0
+      },
+      "line_10": {
+        "name": "Jonah",
+        "text": "I just don't know about wandering into a cursed place like this without realizing it.",
+        "frame_mc": 3,
+        "frame_ally": 0
+      },
+      "line_11": {
+        "name": "Lance",
+        "text": "Haha! We really are more alike than I thought!",
+        "frame_mc": 3,
+        "frame_ally": 1
+      },
+      "line_12": {
+        "name": "Jonah",
+        "text": "No, that's not what I...ah, nevermind.",
+        "frame_mc": 4,
+        "frame_ally": 1
+      }
+    },
+    "num_lines": 13,
+    "texture_ally": 80
+  },
+  "boss_appear": {
+    "conversation": {
+      "line_0": {
+        "name": "Jonah",
+        "text": "What's this menacing aura I feel suddenly?",
+        "frame_mc": 1,
+        "frame_ally": 0
+      },
+      "line_1": {
+        "name": "Nix",
+        "text": "...It seems it's time. The lord of the lake has appeared.",
+        "frame_mc": 1,
+        "frame_ally": 0
+      },
+      "line_2": {
+        "name": "Jonah",
+        "text": "The lord of the lake?",
+        "frame_mc": 1,
+        "frame_ally": 0
+      },
+      "line_3": {
+        "name": "Nix",
+        "text": "That's right. I believe it has recognized your strength and has shown itself before you.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_4": {
+        "name": "Nix",
+        "text": "The path to the legendary fish that I mentioned to you is through the lord. If you can defeat it, you'll be able to access the true gome of the legend.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_5": {
+        "name": "Jonah",
+        "text": "So that's how it is...",
+        "frame_mc": 4,
+        "frame_ally": 0
+      },
+      "line_6": {
+        "name": "Nix",
+        "text": "Fuhuhu, do you feel ready? I believe with our combined power, we certainly have a strong chance against it. But there's no rush. It'll be waiting for whenever you wish to challenge it.",
+        "frame_mc": 0,
+        "frame_ally": 1
+      },
+      "line_7": {
+        "name": "Jonah",
+        "text": "Hmph. If I can't catch this \"lord\", then there's no way I can catch the legendary fish. I'm not going to let it get in my way.",
+        "frame_mc": 2,
+        "frame_ally": 0
+      }
+    },
+    "popup": {
+      "text": "The lord of the lake awaits! Find and approach it when you're ready to challenge it!",
+      "image": 87
+    },
+    "num_lines": 8,
+    "texture_ally": 51
+  },
+  "boss_win": {
+    "conversation": {
+      "line_0": {
+        "name": "Jonah",
+        "text": "We did it!",
+        "frame_mc": 2,
+        "frame_ally": 0
+      },
+      "line_1": {
+        "name": "Nix",
+        "text": "Huhu, we certainly did. Congratulations.",
+        "frame_mc": 2,
+        "frame_ally": 1
+      },
+      "line_2": {
+        "name": "Jonah",
+        "text": "I...thanks. I don't know if I could've done that on my own",
+        "frame_mc": 0,
+        "frame_ally": 1
+      },
+      "line_3": {
+        "name": "Jonah",
+        "text": "You were a big help.",
+        "frame_mc": 2,
+        "frame_ally": 0
+      },
+      "line_4": {
+        "name": "Nix",
+        "text": "See, I knew we would make a good team. You're welcome~.",
+        "frame_mc": 2,
+        "frame_ally": 1
+      },
+      "line_5": {
+        "name": "Nix",
+        "text": "Now that we've defeated the lord, you'll be able to travel to the legend's lake. And I...",
+        "frame_mc": 2,
+        "frame_ally": 0
+      },
+      "line_6": {
+        "name": "Nix",
+        "text": "I can have a treat to a truly rare delicacy indeed...",
+        "frame_mc": 1,
+        "frame_ally": 0
+      },
+      "line_7": {
+        "name": "Jonah",
+        "text": "Err...is it really okay to eat...the lord?",
+        "frame_mc": 3,
+        "frame_ally": 0
+      },
+      "line_8": {
+        "name": "Nix",
+        "text": "Don't worry. The lord is eternally tied to its lake, even if its vessel is temporarily missing.",
+        "frame_mc": 3,
+        "frame_ally": 0
+      },
+      "line_9": {
+        "name": "Nix",
+        "text": "We should reward ourselves after such a struggle, no? It wouldn't do to enter new territory on an empty stomach.",
+        "frame_mc": 0,
+        "frame_ally": 1
+      },
+      "line_10": {
+        "name": "Jonah",
+        "text": "Well...maybe I'll try a bite...",
+        "frame_mc": 0,
+        "frame_ally": 1
+      }
+    },
+    "popup": {
+      "text": "Congratulations! You can now teleport to the next lake by pressing \"T\". Safe travels!",
+      "image": 88
+    },
+    "num_lines": 11,
+    "texture_ally": 51
+  },
+  "lake_2_entry": {
+    "conversation": {
+      "line_0": {
+        "name": "Jonah",
+        "text": "This lake is...unique.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_1": {
+        "name": "Jonah",
+        "text": "Or more like it looks completely cursed...",
+        "frame_mc": 3,
+        "frame_ally": 0
+      },
+      "line_2": {
+        "name": "Nix",
+        "text": "A fish wouldn't be called legendary if it were to reside somewhere normal after all.",
+        "frame_mc": 0,
+        "frame_ally": 1
+      },
+      "line_3": {
+        "name": "Jonah",
+        "text": "Hey, you okay? You look a little pale.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_4": {
+        "name": "Nix",
+        "text": "...Truthfully, I've been to this place before. I don't have fond memories of it.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_5": {
+        "name": "Nix",
+        "text": "The potential to catch the legend, as you say, is too promising to pass up, however. ",
+        "frame_mc": 0,
+        "frame_ally": 0
+      },
+      "line_6": {
+        "name": "Nix",
+        "text": "Don't worry about me. Let's raise our strengths here and find our ultimate goal.",
+        "frame_mc": 0,
+        "frame_ally": 1
+      },
+      "line_7": {
+        "name": "Jonah",
+        "text": "Alright, if you're sure. Time to fish, then.",
+        "frame_mc": 0,
+        "frame_ally": 0
+      }
+    },
+    "num_lines": 8,
+    "texture_ally": 51
+  }
+}

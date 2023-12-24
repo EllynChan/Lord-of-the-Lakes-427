@@ -1,0 +1,20 @@
+{
+    "posX": 1347.518798828125,
+    "posY": 499.8421630859375,
+    "ally1_recruited": false,
+    "shiny_tutorial": false,
+    "num_fish_caught": 0,
+    "cameraX": -484.0,
+    "cameraY": -49.8421630859375,
+    "gold": 0,
+    "dur_max": 120.0,
+    "dur_curr": 120.0,
+    "dur_upgrades": 0.0,
+    "attack": 10,
+    "attack_upgrades": 0.0,
+    "defense": 5,
+    "fishes": [],
+    "fishlog": [],
+    "currently_lake_1": false,
+    "second_lake_unlocked": true
+}
